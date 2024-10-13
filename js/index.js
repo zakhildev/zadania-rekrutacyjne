@@ -1,20 +1,20 @@
-const imageUpload = document.getElementById('imageUpload'); 
-const uploadedImage = document.getElementById('uploadedImage'); 
-const grayscaleCanvas = document.getElementById('grayscaleImage');
-const convertButton = document.getElementById('convertGrayscale'); 
+// Zadanie 1: Wybierz niezbędne elementy DOM
+// Przykład: Musisz uzyskać odniesienia do elementów takich jak input pliku, przycisk, img i canvas.
+// Wskazówka: Użyj document.getElementById lub podobnych metod, aby uzyskać elementy po ich ID.
 
-// Task 1: Add event listener for image upload
-// When an image is uploaded, you need to display it in the <img> element.
-imageUpload.addEventListener('change', function(event) {
-    // TODO: Implement logic to handle the file upload and display the image.
-    // Hint: Use FileReader to read the uploaded file and set the src of the uploadedImage.
-    console.log("Image uploaded"); // For debugging: make sure this fires when an image is selected
-});
+// Zadanie 2: Dodaj nasłuchiwacz zdarzeń dla przesyłania obrazu
+// Kiedy użytkownik wybierze obraz, wyświetl go w elemencie <img>.
+// Wskazówka: Możesz użyć API FileReader, aby odczytać plik jako URL danych.
 
-// Task 2: Add event listener for grayscale conversion
-// When the button is clicked, convert the displayed image to grayscale and show it in the canvas.
-convertButton.addEventListener('click', function() {
-    // TODO: Implement grayscale conversion logic.
-    // Hint: Draw the image to the canvas, manipulate pixel data to apply grayscale.
-    console.log("Grayscale button clicked"); // For debugging: make sure this fires when button is clicked
-});
+// Zadanie 3: Dodaj nasłuchiwacz zdarzeń do przycisku „Konwertuj na odcienie szarości”
+// Po kliknięciu, skonwertuj wyświetlany obraz na odcienie szarości i pokaż go w elemencie <canvas>.
+// Wskazówka: Musisz użyć elementu canvas i jego kontekstu (2D) oraz zmodyfikować dane pikseli.
+
+// Zadanie 4: Narysuj przesłany obraz na canvasie
+// Wskazówka: Użyj drawImage() w kontekście canvasa, aby narysować obraz. Upewnij się, że rozmiar canvasa odpowiada rozmiarowi obrazu.
+
+// Zadanie 5: Skonwertuj obraz na odcienie szarości poprzez manipulowanie danymi pikseli
+// Wskazówka: Użyj getImageData() do pobrania danych pikseli, zastosuj formułę dla odcieni szarości, a następnie użyj putImageData(), aby zaktualizować canvas.
+
+// Zadanie opcjonalne: Zastanów się, co się stanie, jeśli nie zostanie przesłany żaden obraz, a przycisk odcieni szarości zostanie kliknięty.
+// Wskazówka: Możesz sprawdzić, czy obraz został przesłany, zanim zastosujesz filtr odcieni szarości.
