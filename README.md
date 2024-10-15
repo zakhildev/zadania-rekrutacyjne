@@ -7,7 +7,7 @@ Do wykonania macie jedno zadanie z dowolnie wybranego języka z listy.
 Jeśli nie ma języka bądź technologii, którą lubicie i chcielibyście się nią pochwalić to trudno.
 Takie życie elo benc
 
-Zasadniczo są 5 zadań:
+Zasadniczo jest 5 zadań:
 - konsolidacja na danych
 - prosta strona internetowa modyfikująca przesłane zdjęcie
 - aplikacja mobilna typu todo
