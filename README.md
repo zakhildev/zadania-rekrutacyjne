@@ -20,6 +20,7 @@ Nowo utworzone repo musi być publiczne!
 
 
 ## Co to za dwa ostatnie zadania???
+### PM
 Jeśli chciałbyś spróbować swoich sił jako manadżer projektu to wyślij maila na adres kontakt@akai.org.pl zatytułowanego "Rekrutacja PM 2024".
 W treści umieść: 
 
@@ -32,7 +33,7 @@ Zadanie: Stwórz harmonogram w formie wykresu Gantta lub innego narzędzia do za
 Zasoby: Opisz, jakie zasoby (ludzkie, technologiczne, finansowe) będą potrzebne do realizacji projektu.
 Zadanie: Przygotuj listę zasobów wraz z krótkim uzasadnieniem ich wyboru.
 
-
+### Koordynator/Lider
 Jeżeli chciałbyś zostać liderem lub koordynatorem w naszym kole wyślij maila na adres kontakt@akai.org.pl zatytułowanego "Rekrutacja KL 2024" wyrażającego twoją chęć do dołączenia do nas! Następnie zostaniesz umówiony na rozmowę z naszym zarządem w celu weryfikacji.
 
 elo benc
