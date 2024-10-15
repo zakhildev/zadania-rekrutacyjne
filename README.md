@@ -15,7 +15,7 @@ Zasadniczo jest 5 zadań:
 - rozmowa rekrutacyjna na temat organizacji pracy
 
 Na każdy język przypada jedno zadanie.
-W celu zaliczenia proszę skopiować repo na swój profil i tak wykonać konkretne zadanie.
+W celu zaliczenia proszę sklonować repo na swój profil i tak wykonać konkretne zadanie.
 Nowo utworzone repo musi być publiczne!
 
 
