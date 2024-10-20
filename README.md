@@ -2,19 +2,21 @@
 
 Witajcie!
 Koło naukowe AKAI szuka nowych członków na rok akademicki 2024/2025.
-Jest nam niezmiernie miło, że podjęliście próbę siły.
-Do wykonania macie jedno zadanie z dowolnie wybranego języka z listy.
-Jeśli nie ma języka bądź technologii, którą lubicie i chcielibyście się nią pochwalić to trudno.
-Takie życie elo benc
 
-Zasadniczo jest 5 zadań:
+Dla osób zainteresowanych rozwojem projektów programistycznych:
+Do wykonania macie jedno zadanie z dowolnie wybranego języka z listy.
+
+Jeśli nie ma tutaj języka bądź technologii, którymi chcielibyście się pochwalić, 
+możecie napisać do nas maila na rekrutacja@akai.org.pl, gdzie opiszecie swoje doświadczenie.
+
+Przygotowaliśmy dla Was 5 typów zadań:
 - konsolidacja na danych
 - prosta strona internetowa modyfikująca przesłane zdjęcie
 - aplikacja mobilna typu todo
 - opis oragnizacji projektu
 - rozmowa rekrutacyjna na temat organizacji pracy
 
-Na każdy język przypada jedno zadanie.
+Na każdy język przypada jedno programistyczne zadanie.
 W celu zaliczenia proszę sklonować repo na swój profil i tak wykonać konkretne zadanie.
 Nowo utworzone repo musi być publiczne!
 
@@ -35,5 +37,3 @@ Zadanie: Przygotuj listę zasobów wraz z krótkim uzasadnieniem ich wyboru.
 
 ### Koordynator/Lider
 Jeżeli chciałbyś zostać liderem lub koordynatorem w naszym kole wyślij maila na adres rekrutacja@akai.org.pl zatytułowanego "Rekrutacja KL 2024" wyrażającego twoją chęć do dołączenia do nas! Następnie zostaniesz umówiony na rozmowę z naszym zarządem w celu weryfikacji.
-
-elo benc
