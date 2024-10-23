@@ -3,6 +3,7 @@
 # Wynik przedstaw w czytelnej formie na standardowym wyjściu
 
 import json
+import os
 from typing import Literal
 
 CARAT_TO_OUNCE_RATIO = 0.00705479239  # 1 ct = 0.00705479239 uncji
@@ -24,10 +25,12 @@ def getEntryValue(_type: str, purity: str, categories) -> int:
   return 0
 
 def main() -> None:
-  with open('./dane/zbiór_wejściowy.json', 'r', encoding='utf-8') as data_file:
+  dirname = os.path.dirname(__file__)
+  data_path = os.path.join(dirname, '../dane/')
+  with open(data_path + 'zbiór_wejściowy.json', 'r', encoding='utf-8') as data_file:
     data = json.load(data_file)
   
-  with open('./dane/kategorie.json', 'r', encoding='utf-8') as categories_file:
+  with open(data_path + 'kategorie.json', 'r', encoding='utf-8') as categories_file:
     categories = json.load(categories_file)
 
   top_5_entries = []
