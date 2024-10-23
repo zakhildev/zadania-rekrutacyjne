@@ -20,7 +20,7 @@ Na każdy język przypada jedno programistyczne zadanie.
 W celu zaliczenia proszę sklonować repo na swój profil i  wykonać konkretne zadanie.
 Nowo utworzone repo musi być publiczne, link do niego prosze wysłać nam przez formularz zgłoszeniowy.
 
-*Uwaga* 
+## *Uwaga* ## 
 Zadania są dla Was oraz pozwalają Wam uzyskać code review od starszych, doświadczonych kolegów. 
 Jest to szansa na ocenę od pracujących w zawodzie osób. 
 Jeżeli robicie kopiuj-wklej z chata, dostaniecie odpowiedź kopiuj-wklej z chata ;)
