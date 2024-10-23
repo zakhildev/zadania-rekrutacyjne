@@ -17,11 +17,17 @@ Przygotowaliśmy dla Was 5 typów zadań:
 - rozmowa rekrutacyjna na temat organizacji pracy
 
 Na każdy język przypada jedno programistyczne zadanie.
-W celu zaliczenia proszę sklonować repo na swój profil i tak wykonać konkretne zadanie.
-Nowo utworzone repo musi być publiczne!
+W celu zaliczenia proszę sklonować repo na swój profil i  wykonać konkretne zadanie.
+Nowo utworzone repo musi być publiczne, link do niego prosze wysłać nam przez formularz zgłoszeniowy.
 
+*Uwaga* 
+Zadania są dla Was oraz pozwalają Wam uzyskać code review od starszych, doświadczonych kolegów. 
+Jest to szansa na ocenę od pracujących w zawodzie osób. 
+Jeżeli robicie kopiuj-wklej z chata, dostaniecie odpowiedź kopiuj-wklej z chata ;)
+Nie traćmy swojego czasu, chat jest super narzędziem, ale projektu w kole Wam nie ukończy.
 
 ## Co to za dwa ostatnie zadania???
+(opis oragnizacji projektu - rozmowa rekrutacyjna na temat organizacji pracy)
 ### PM
 Jeśli chciałbyś spróbować swoich sił jako manadżer projektu to wyślij maila na adres rekrutacja@akai.org.pl zatytułowanego "Rekrutacja PM 2024".
 W treści umieść: 
